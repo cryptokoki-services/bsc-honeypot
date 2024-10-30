@@ -3,7 +3,7 @@
 🌐 More information and bsc honeypot token source code: [cryptokoki.com/bsc-honeypot-token](https://cryptokoki.com/bsc-honeypot-token.html) </br>
 💬 Contact us for consultation and customization: [cryptokoki.com/contact](https://cryptokoki.com/contact.html)
 
-📯 Telegram Channel: [cryptoKoki services – BSC Honeypot Token](https://t.me/koki_services/36)</br>
+📯 Telegram Channel: [cryptoKoki services – BSC Honeypot Token](https://t.me/koki_services/40)</br>
 📥 Telegram DM: [@crypt0koki](https://t.me/crypt0koki)</br>
 📭 E-mail: [cryptokoki@proton.me](mailto:cryptokoki@proton.me)
 
